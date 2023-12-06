@@ -105,8 +105,6 @@ public class SignupActivity extends AppCompatActivity {
         signUpBtn=findViewById(R.id.signup_btn);
         pg1=findViewById(R.id.progressBar2);
         mAuth=FirebaseAuth.getInstance();
-        //kjvghghgdgj
-        //testing comment
 
 
         userProfile.setOnClickListener(new View.OnClickListener() {
