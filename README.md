@@ -4,7 +4,7 @@
 # eElection
 A brief description of what this project does and who it's for
 
-[Download ](http://localhost/) download apk file.
+[Download ](https://github.com/mokshajmera002/eElection/raw/master/eElection.apk) download apk file.
 
 # Screenshots
 <!--<p algign="left"<b>Home Page</b></p><!-->
